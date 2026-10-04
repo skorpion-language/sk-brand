@@ -1,7 +1,7 @@
 # Skorpion Logo
 Logo in raster and vector formats
 
-![LOGO]()
+<img width=10% alt=LOGO src=./icons/icon.png>
 
 ### PNG
 [`https://raw.githubusercontent.com/`](./icons/skorpion.png)
