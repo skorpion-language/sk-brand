@@ -1,7 +1,7 @@
 # Skorpion Logo
 Logo in raster and vector formats
 
-<p align="center"><a href="https://raw.githubusercontent.com/skorpion-language/sk-brand/main/LICENSE"><img alt="APACHE-2.0" src="https://img.shields.io/badge/APACHE--2.0-orange?style=for-the-badge"/></a></p>
+<p align="center"><a href="https://github.com/skorpion-language/sk-brand/blob/main/LICENSE"><img alt="APACHE-2.0" src="https://img.shields.io/badge/CC--BY_4.0-orange?style=for-the-badge"/></a></p>
 
 <hr>
 
