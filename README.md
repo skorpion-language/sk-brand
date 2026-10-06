@@ -11,7 +11,7 @@ Logo in raster and vector formats
 ```
 https://raw.githubusercontent.com/skorpion-language/sk-brand/main/icons/icon.png
 ```
-<p align="center"><a href="https://github.com/skorpion-language/sk-brand/blob/main/icons/icon.png"><img alt="Go" src="https://img.shields.io/badge/Go_to_PNG-green?style=for-the-badge"/></a>&nbsp;<a href="https://raw.githubusercontent.com/skorpion-language/sk-brand/main/icons/icon.png"><img alt="Go" src="https://img.shields.io/badge/Go_to_RAW-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/icons/png/readme.md"><img alt="Go" src="https://img.shields.io/badge/Other_size-gray?style=for-the-badge"/></a></p>
+<p align="center"><a href="https://github.com/skorpion-language/sk-brand/blob/main/icons/icon.png"><img alt="Go" src="https://img.shields.io/badge/Go_to_PNG-green?style=for-the-badge"/></a>&nbsp;<a href="https://raw.githubusercontent.com/skorpion-language/sk-brand/main/icons/icon.png"><img alt="Go" src="https://img.shields.io/badge/Go_to_RAW-purple?style=for-the-badge"/></a>&nbsp;<a href="https://github.com/skorpion-language/sk-brand/blob/main/icons/png/readme.md"><img alt="Go" src="https://img.shields.io/badge/All_sizes-gray?style=for-the-badge"/></a></p>
 
 ### SVG
 ```
